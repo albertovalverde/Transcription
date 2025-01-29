@@ -13,7 +13,7 @@ This Python script extracts audio from a video file and transcribes it using Whi
 Make sure you have the following dependencies installed:
 
 ```bash
-pip install torch whisperx moviepy
+pip install openai-whisper moviepy whisperx
 ```
 
 ## Usage
