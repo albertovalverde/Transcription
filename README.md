@@ -22,7 +22,7 @@ pip install openai-whisper moviepy whisperx
 3. Run the script:
 
 ```bash
-python script.py
+python transcription-video-whisperx.py
 ```
 
 4. The transcription will be saved in `transcription-whisperX.txt`.
