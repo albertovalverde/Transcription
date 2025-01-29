@@ -1,0 +1,4 @@
+googletrans
+openai-whisper
+moviepy
+whisperx
